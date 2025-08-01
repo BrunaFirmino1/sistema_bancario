@@ -1,4 +1,5 @@
 Sistema Bancário
+
 Este projeto simula um banco simples via terminal, permitindo que o usuário realize operações básicas como depósito, saque, consulta de extrato e saída do sistema com registro de data e hora nas transações.
 
 Regras do Sistema:
